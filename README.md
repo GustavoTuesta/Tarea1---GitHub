@@ -5,6 +5,7 @@ HABILIDADES:
 -Trabajo en equipo
 -Resolución de problemas
 -Manejo de control de versiones(Git)
+-Manejo Notion
 
 LENGUAJES QUE DOMINO:
 -Java
