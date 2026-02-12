@@ -16,3 +16,7 @@ APLICACIONES DESARROLLADAS
 -Desarrollo de scripts en Python para automatización de reportes y envió de correos electrónicos
 -Aplicaciones web básicas utilizando HTML, CSS y JavaScript
 
+EXPERIENCIA PREVIA:
+-Proyectos académicos orientados al desarrollo de software 
+-Uso de servidores Linux (Red Hat) para prácticas de configuración y administración básica
+-Creación de automatizaciones en Python
